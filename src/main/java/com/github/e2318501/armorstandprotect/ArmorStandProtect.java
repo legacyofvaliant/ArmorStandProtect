@@ -1,4 +1,4 @@
-package net.nutchi.armorstandprotect;
+package com.github.e2318501.armorstandprotect;
 
 import org.bukkit.GameMode;
 import org.bukkit.event.EventHandler;
